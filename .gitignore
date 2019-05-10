@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # Ignored Unreal File and VS
 .vs
@@ -37,3 +38,5 @@
 /Build/
 /Intermediate/
 /Saved/
+=======
+>>>>>>> d8a4f018e72e1d6e930617e44668fc82756c502d
